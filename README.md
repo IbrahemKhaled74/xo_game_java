@@ -1,8 +1,9 @@
 # xo_game_java
 
-Please ⭐️ this repo and share it with others
 
-XO GAME Using JAVA 
+XO GAME Using JAVA
+
+Please ⭐️ this repo and share it with others.
 
 # Screenshots
 Light Mode
